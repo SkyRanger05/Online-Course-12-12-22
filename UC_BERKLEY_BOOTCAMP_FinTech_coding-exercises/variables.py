@@ -27,5 +27,8 @@ print(f"I'm {age} years of age.")
 # Two number values will be added
 
 # Two string values will be concatenated
-
+where_is_samantha = "Where is Samantha! Her mother replied, 'just over the hill pass the oak tree, a breeze five mile walk, might have to cross the brook as wide as highways since it rained heavily two days ago, then turn east continue tophill to Mrs. Bloomdale victorian house, behind the house there is a lookout bench, and you might find her there!.'"
+why_samantha_went = " Samatha likes to see the sunset as it takes a dip into the dark night autumn sky!"
+samantha = where_is_samantha + why_samantha_went
+print(samantha)
 # Variable naming conventions
