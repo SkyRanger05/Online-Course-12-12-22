@@ -11,7 +11,7 @@ student_loan_information_aj = {
     "student_name": "Amy Johnson",
     "university": "Yale",
     "academic_year": "2015_2016",
-    "loan_amount": 45000,
+    "laon_amount": 45000,
     "duration_years": 10,
     "payments_started": False,
 }
@@ -46,3 +46,8 @@ print()
 # @TODO Delete the existing key:value pair.
 # @TODO Add a new key:value pair with the correct spelling. You can use the same amount of 45000.
 # @TODO Print the dictionary so that you know your changes are working.
+print()
+del student_loan_information_aj["loan_amount"]
+print(student_loan_information_aj)
+print()
+
