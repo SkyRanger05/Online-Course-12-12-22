@@ -20,6 +20,7 @@ with open(csvpath) as p:
         r = item[0]
         d = g + r
         h = item[4]
+        c = item[3]
         #if r == "25":
             
         # Print the name of the Pokemon(identifier) and Pokedex number(species id) at that number. For example, "Pokemon No. 25 - Pikachu".
@@ -27,12 +28,14 @@ with open(csvpath) as p:
         #print(h)
         # Iterate through the data and search for Pokemon whose weight is greater than 3000. Append only the Pokemon's name and weight to the 'heaviest' list.
         if h > "3000":
-            h = return()
+            #h = return()
             #item.append(h_t)
             print(h_t)
         else:
             print("Leight Weight")
         # Iterate through the data and search for Pokemon whose height is greater than 50. Append only the Pokemon's name and height to the 'tallest' list.
-
+        if c > "50":
+            
 
 # Print the list of heaviest and tallest pokemon
+            print(c)
