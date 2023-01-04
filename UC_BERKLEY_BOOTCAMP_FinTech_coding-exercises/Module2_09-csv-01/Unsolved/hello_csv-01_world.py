@@ -35,7 +35,7 @@ with open(csvpath) as p:
             print("Leight Weight")
         # Iterate through the data and search for Pokemon whose height is greater than 50. Append only the Pokemon's name and height to the 'tallest' list.
         if c > "50":
-            
+            item.append(c)
 
 # Print the list of heaviest and tallest pokemon
-            print(c)
+            print(h_t)
