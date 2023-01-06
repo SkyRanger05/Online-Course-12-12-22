@@ -24,7 +24,8 @@ print(stock_tickers)
 # @TODO Print stock_tickers to confirm your code
 stock_tickers[:0] = ["AAPL"]
 stock_tickers[3:3] = ["DELL"]
-print(stock_tickers)
+stock_tickers[2:2] = ["SRLEE"]
+print(stock_tickers) 
 
 # @TODO Remove the ticker 'INTC' from the stock_tickers list
 # @TODO Print stock_tickers to confirm your code
