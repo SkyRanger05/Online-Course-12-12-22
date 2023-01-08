@@ -60,7 +60,7 @@ To use the "Loan Tech Calculator" download the app. Go into your dev environment
 
 This project made possible in collaboration with the Silverpy Group, and their work with the loan filtering system. Also contributions by Double Helix Serpent Associates, and their excellent work in managing the entire project.
 
-Contact: qtrucker@att.net
+Contact: qrigtrucker@att.net
 
 ---
 
