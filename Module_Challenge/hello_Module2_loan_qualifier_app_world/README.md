@@ -1,49 +1,73 @@
 # Project Title
 
-The project goal is to provide solution to regular Joes and Jane who are looking to seriously make the biggest purchase of a lifetime, their dream home. 
-It is a daunting process, but "Joe Smoow Calculator" will take the pain away.
-Initial hump is looking at how much they loan should they qualify to matching the bank is the half way point. It is the goal  "Joe Smow Calculator" to take ordinary Jane and Joe from zero to hero.
+The project goal is to provide solution to regular Joes and Janes who are looking to seriously make the biggest purchase of a lifetime, their dream home. Lending a daunting process, but "Loan Tech Calculator" will take the pain away. Qualifiying for a loan is the initial hurdle in the path to home ownership. It is the goal "Loan Tech Calculator" to take ordinary folks from zero to hero, and make home ownership a reality. 
 
-"Joe Snow Calculator" takes the guessing game out of the equation and lead home loan applicants straight to the bank's wallet and take the wallet to the home seller.
+Potential benefits to users of "Loan Tech Calculator" its cross platform compatibility, seamless systems integration, user intuitive functionality. Qualifying for loan takes only six data points including the data sets. "Loan Tech Calculator" is fast and simple to use. 
 
-"Joe Smow Calculator" offers cross platform compatibility microsoft, apple, stack, front end backend seamless integration
-
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+Loan metrics: financial ratios include Debt Payment-to-Monthly Income, Loan Amount-to-Home Value.
 
 ---
 
 ## Technologies
 
-Python as the driver language, ensuring crossplatform compatibility. A robust programming language modularized packaging enables to make use of various libraries available in the market for taylor fit customization while scalable at the same time. 
-Describe the technologies required to use your project such as programming languages[Python], libraries[], frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+To achieve the goal, "Loan Tech Calculator" technology takes advantage of innovations of today as well as the coming future. Python being its driver language ensures cross platform compatibility well into the future. The robust programming language offers modularized packaging of its code source, which in turn enabling to make use of various libraries available in the market. The calculator is made to tailor fit customization while maintaining scalable at the same time.
+
+Libraries include: Python standard libraries
+    - pathlib for file and directory access
+    - Questionary for interactive prompts
+    - csv for ensuring to seamless work with different data files
+
+Package manager: pip manages application ensuring various libraries work in tangent and seamless with this application.
+
+Python Fire: in creation of command-line interfaces for programs that run straight in the terminal.
+
+Frame works:
+pandas for manipulating large amount of data with ease.
+
+
+Operating systems:
+sys, time, random
+fire
+csv
+questionary
+
+
+Dependencies:
+'sys': change in version 3.6
+
+
+
 
 ---
 
 ## Installation Guide
 
-Installation is easy as making a pancake, get the flour, milk, and eggs all mixed together in a bowl and you have yourself a five star breakfast. It is that easy.
+Installation is easy as making pancake; get the flour, milk, and eggs all mixed together in a bowl and you have yourself a five star breakfast. It is that easy.
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Questionary Install: go into your Conda (dev) environment and by using pip type the following in the command line: pip install questionary
+
+Python Fire Install: go into your Conda dev environment and type the following in the command line: pip install fire
 
 ---
 
 ## Usage
 
-To calculate ratios
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To use the "Loan Tech Calculator" download the app. Go into your dev environment via command prompt into the folder, and type the following: python app.py
 
 ---
 
 ## Contributors
 
-This project made possible in collaboration with the samuraiPy group, double helix serpent association. 
+This project made possible in collaboration with the Silverpy Group, and their work with the loan filtering system. Also contributions by Double Helix Serpent Associates, and their excellent work in managing the entire project.
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Contact: qtrucker@att.net
 
 ---
 
 ## License
 
-License to freely use this product risk free of my account. You break it you don't pay hence free. Makers of "Joe Smow Calculator" will not be held resposible for not delivering the "dream home". 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+Open Source License:
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
