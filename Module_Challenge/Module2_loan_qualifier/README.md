@@ -55,6 +55,7 @@ Python Fire Install: go into your Conda dev environment and type the following i
 To use the "Loan Tech Calculator" download the app. Go into your dev environment via command prompt into the folder, and type the following: python app.py
 
 User to enter the input necessary when prompted by the application. The application will return the matching lending institution(s) the user will qualify their asking loan amount.
+
 ---
 
 ## Contributors
