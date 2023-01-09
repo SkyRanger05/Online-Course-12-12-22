@@ -1,4 +1,4 @@
-Project: Loan Tech Calculator
+# Project: Loan Tech Calculator
 
 The project goal is to provide solution to regular Joes and Janes who are looking to seriously make the biggest purchase of a lifetime, their dream home. Lending a daunting process, but "Loan Tech Calculator" will take the pain away. Qualifiying for a loan is the initial hurdle in the path to home ownership. It is the goal "Loan Tech Calculator" to take ordinary folks from zero to hero, and make home ownership a reality. 
 
